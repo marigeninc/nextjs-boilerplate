@@ -11,7 +11,7 @@
     "dev": "next dev",
     "dev:inspect": "NODE_OPTIONS='--inspect' next dev",
     "start": "next start",
-    "lint": "eslint ./src",
+    "lint": "eslint ./src/**/*.js[x]",
     "release": "standard-version -s --no-verify"
   },
   "dependencies": {
@@ -30,7 +30,6 @@
     "commitizen": "4.2.1",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "7.10.0",
-    "eslint-config-airbnb": "18.2.0",
     "eslint-config-prettier": "6.12.0",
     "eslint-import-resolver-alias": "1.1.2",
     "eslint-plugin-import": "2.22.1",
