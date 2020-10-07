@@ -10,7 +10,6 @@
     "build": "next build",
     "dev": "next dev",
     "dev:inspect": "NODE_OPTIONS='--inspect' next dev",
-    "ngrok": "ngrok http -inspect -region ap -hostname=laws010.ap.ngrok.io 3000",
     "start": "next start",
     "lint": "eslint ./src",
     "release": "standard-version -s --no-verify"
