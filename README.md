@@ -1,1 +1,1 @@
-# admin.laws010.com
+# @010tech/nextjs-boilerplate
