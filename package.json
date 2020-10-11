@@ -4,7 +4,6 @@
   "repository": "git@github.com:010tech/nextjs-boilerplate.git",
   "author": "Gary Lai <garylai1990@gmail.com>",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "analyze": "ANALYZE=true next build",
     "build": "next build",
@@ -13,7 +12,7 @@
     "start": "next start",
     "lint": "eslint ./src/**/* --ext .js,.jsx",
     "release": "standard-version -s --no-verify",
-    "github-release": "conventional-github-releaser -p angular"
+    "github-release": "conventional-github-releaser -p angular -r 0"
   },
   "dependencies": {
     "next": "9.5.5",
