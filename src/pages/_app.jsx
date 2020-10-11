@@ -4,8 +4,6 @@ import 'nprogress/nprogress.css';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import 'react-toastify/dist/ReactToastify.css';
-
 Router.events.on('routeChangeStart', () => NProgress.start());
 Router.events.on('routeChangeComplete', () => NProgress.done());
 Router.events.on('routeChangeError', () => NProgress.done());
