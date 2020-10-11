@@ -11,7 +11,7 @@
     "dev": "next dev",
     "dev:inspect": "NODE_OPTIONS='--inspect' next dev",
     "start": "next start",
-    "lint": "eslint ./src/**/*.js[x]",
+    "lint": "eslint ./src/**/* --ext .js,.jsx",
     "release": "standard-version -s --no-verify",
     "github-release": "conventional-github-releaser -p angular"
   },
