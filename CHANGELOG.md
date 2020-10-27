@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/machiyami/nextjs-boilerplate/compare/v1.0.2...v1.0.3) (2020-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v17.0.1 ([17a6f7f](https://github.com/machiyami/nextjs-boilerplate/commit/17a6f7fe3fb2b756694413afcd01a7044617c7ab))
+
 ### [1.0.2](https://github.com/machiyami/nextjs-boilerplate/compare/v1.0.1...v1.0.2) (2020-10-21)
 
 
