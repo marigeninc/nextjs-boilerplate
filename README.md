@@ -1,6 +1,6 @@
-# @010tech/nextjs-boilerplate
+# @machiyami/nextjs-boilerplate
 
-This is a Next.js boilerplate from [010tech](https://github.com/010tech).
+This is a Next.js boilerplate from [machiyami](https://github.com/machiyami).
 
 ## Getting Started
 
@@ -38,4 +38,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2F010tech%2Fnextjs-boilerplate)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmachiyami%2Fnextjs-boilerplate)
