@@ -41,7 +41,7 @@
     "husky": "4.3.8",
     "next-compose-plugins": "2.2.1",
     "prettier": "2.2.1",
-    "standard-version": "9.1.0"
+    "standard-version": "9.3.0"
   },
   "config": {
     "commitizen": {
