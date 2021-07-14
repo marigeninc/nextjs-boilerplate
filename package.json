@@ -15,7 +15,7 @@
     "github-release": "conventional-github-releaser -p angular -r 0"
   },
   "dependencies": {
-    "next": "10.0.6",
+    "next": "11.0.1",
     "next-seo": "4.18.0",
     "nprogress": "0.2.0",
     "prop-types": "15.7.2",
@@ -25,7 +25,7 @@
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
-    "@next/bundle-analyzer": "10.0.6",
+    "@next/bundle-analyzer": "11.0.1",
     "@types/node": "14.14.22",
     "commitizen": "4.2.3",
     "conventional-github-releaser": "3.1.5",
